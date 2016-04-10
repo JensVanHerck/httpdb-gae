@@ -1,0 +1,1 @@
+This project is setup to open source a basic storage mechanism for script data on the google app engine backend. The goal is to make a similar, but improved, version of the w-hat system as found on http://w-hat.com/httpdb
